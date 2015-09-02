@@ -1,0 +1,7 @@
+{
+	"gitbook": ">=2.0.0",
+	"title": "Focus-Docs",
+	"description": "API focusjs    ",
+	"language": "fr",
+    "summary": "./src/SUMMARY.md"
+}
